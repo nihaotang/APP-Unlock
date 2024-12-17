@@ -1,0 +1,7 @@
+#!name= Notability
+#!desc= Notability解锁
+[MITM]
+hostname = notability.com
+
+[Script]
+Notability = type=http-response,pattern=^https?:\/\/notability\.com\/(global|subscriptions),requires-body=1,max-size=0,script-path=
