@@ -11,7 +11,7 @@ tanhax = {
          "refundedDate" : null,
          "refundedReason" : null,
          "isInBillingRetryPeriod" : false,
-         "expirationDate" : "1314-02-27T22:16:52.000Z",
+         "expirationDate" : "3002-02-27T22:16:52.000Z",
          "gracePeriodExpiresAt" : null,
          "overDeviceLimit" : false,
          "expirationIntent" : null,
